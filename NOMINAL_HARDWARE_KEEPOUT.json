@@ -1,0 +1,24 @@
+{
+  "status": "nominal_only_no_physical_measurement",
+  "base_vs_hardware_nominal_mm3": {
+    "FRONT_KCD1_ROCKER_BODY": 0.0,
+    "FRONT_LCD_1602_BOARD_NOMINAL": 0.0,
+    "FRONT_WH148_POT_BODY": 0.0,
+    "REAR_KCD1_SWITCH": 0.0,
+    "REAR_DC_JACK_BODY": 0.0,
+    "UNO_BOARD_BOX": 0.0,
+    "XL4015_MODULE_BOX": 0.0,
+    "DRV8833_MODULE_BOX": 0.0,
+    "5V_CONVERTER_BOX": 0.0
+  },
+  "lcd_clamp_vs_switch_nominal_mm3": 0.0,
+  "model_clearances_mm": {
+    "rocker_cutout_width": 13.2,
+    "rocker_cutout_height": 19.2,
+    "lcd_board_w": 80,
+    "lcd_board_h": 36,
+    "pot_hole_d": 7.2,
+    "dc_jack_hole_d": 8.2
+  },
+  "IMPORTANT": "The simulated rough rectangular volumes cannot prove actual board dimensions, molded retaining clips, plugs, or wire clearances."
+}

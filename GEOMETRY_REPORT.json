@@ -1,0 +1,258 @@
+{
+  "mesh_parts": [
+    {
+      "name": "BLACK_01_CASE_OPEN_FRONT_REAR",
+      "watertight": true,
+      "winding": true,
+      "dims": [
+        170.0,
+        138.0,
+        58.0
+      ],
+      "fits_a1mini": true,
+      "components": 1
+    },
+    {
+      "name": "BLACK_02_REMOVABLE_FRONT_PANEL",
+      "watertight": true,
+      "winding": true,
+      "dims": [
+        167.0,
+        13.6,
+        56.0
+      ],
+      "fits_a1mini": true,
+      "components": 9
+    },
+    {
+      "name": "BLACK_03_REMOVABLE_LCD_RETAINER",
+      "watertight": true,
+      "winding": true,
+      "dims": [
+        100.0,
+        3.0,
+        38.0
+      ],
+      "fits_a1mini": true,
+      "components": 1
+    },
+    {
+      "name": "BLACK_04_REMOVABLE_REAR_PANEL_NO_USB",
+      "watertight": true,
+      "winding": true,
+      "dims": [
+        167.0,
+        3.4,
+        56.0
+      ],
+      "fits_a1mini": true,
+      "components": 1
+    },
+    {
+      "name": "BLACK_05_INTERNAL_ELECTRONICS_TRAY",
+      "watertight": true,
+      "winding": true,
+      "dims": [
+        150.0,
+        114.0,
+        2.6
+      ],
+      "fits_a1mini": true,
+      "components": 1
+    },
+    {
+      "name": "BLACK_06_REMOVABLE_TOP_DECK",
+      "watertight": true,
+      "winding": true,
+      "dims": [
+        170.0,
+        138.0,
+        8.0
+      ],
+      "fits_a1mini": true,
+      "components": 1
+    },
+    {
+      "name": "BLACK_07_LOWER_TRUE_SPHERICAL_CARRIER_WITH_FEET",
+      "watertight": true,
+      "winding": true,
+      "dims": [
+        126.0,
+        106.0,
+        41.8
+      ],
+      "fits_a1mini": true,
+      "components": 1
+    },
+    {
+      "name": "BLACK_08_UPPER_TRUE_SPHERICAL_CARRIER",
+      "watertight": true,
+      "winding": true,
+      "dims": [
+        160.0,
+        112.0,
+        44.0
+      ],
+      "fits_a1mini": true,
+      "components": 1
+    },
+    {
+      "name": "BLACK_09_LOWER_REMOVABLE_REAR_RETAINER",
+      "watertight": true,
+      "winding": true,
+      "dims": [
+        120.0,
+        104.0,
+        2.4
+      ],
+      "fits_a1mini": true,
+      "components": 1
+    },
+    {
+      "name": "BLACK_10_UPPER_REMOVABLE_REAR_RETAINER",
+      "watertight": true,
+      "winding": true,
+      "dims": [
+        136.0,
+        100.0,
+        2.4
+      ],
+      "fits_a1mini": true,
+      "components": 1
+    },
+    {
+      "name": "BLACK_11_LEFT_REINFORCED_REMOVABLE_SUPPORT",
+      "watertight": true,
+      "winding": true,
+      "dims": [
+        12.0,
+        96.0,
+        66.8
+      ],
+      "fits_a1mini": true,
+      "components": 1
+    },
+    {
+      "name": "BLACK_12_RIGHT_REINFORCED_REMOVABLE_SUPPORT",
+      "watertight": true,
+      "winding": true,
+      "dims": [
+        12.0,
+        96.0,
+        66.8
+      ],
+      "fits_a1mini": true,
+      "components": 1
+    },
+    {
+      "name": "BLACK_13_REMOVABLE_LOGO_BACKING_BADGE",
+      "watertight": true,
+      "winding": true,
+      "dims": [
+        2.2,
+        106.0,
+        34.0
+      ],
+      "fits_a1mini": true,
+      "components": 1
+    },
+    {
+      "name": "YELLOW_01_BASE_PERIMETER_TRIM",
+      "watertight": true,
+      "winding": true,
+      "dims": [
+        166.0,
+        132.0,
+        2.6
+      ],
+      "fits_a1mini": true,
+      "components": 1
+    },
+    {
+      "name": "YELLOW_02_REINFORCED_UPPER_CROWN",
+      "watertight": true,
+      "winding": true,
+      "dims": [
+        166.0,
+        120.0,
+        3.0
+      ],
+      "fits_a1mini": true,
+      "components": 1
+    },
+    {
+      "name": "YELLOW_04_ARCH_ACCENT_LEFT",
+      "watertight": true,
+      "winding": true,
+      "dims": [
+        1.4,
+        88.4,
+        53.3
+      ],
+      "fits_a1mini": true,
+      "components": 3
+    },
+    {
+      "name": "YELLOW_05_ARCH_ACCENT_RIGHT",
+      "watertight": true,
+      "winding": true,
+      "dims": [
+        1.4,
+        88.4,
+        53.3
+      ],
+      "fits_a1mini": true,
+      "components": 3
+    },
+    {
+      "name": "YELLOW_06_LCD_FACE_BEZEL",
+      "watertight": true,
+      "winding": true,
+      "dims": [
+        75.0,
+        0.8,
+        25.0
+      ],
+      "fits_a1mini": true,
+      "components": 1
+    },
+    {
+      "name": "YELLOW_07_POTENTIOMETER_HOLE_TRIM_ONLY",
+      "watertight": true,
+      "winding": true,
+      "dims": [
+        22.6,
+        0.8,
+        22.6
+      ],
+      "fits_a1mini": true,
+      "components": 1
+    },
+    {
+      "name": "YELLOW_08_ACTUAL_BLUENODE_FULL_LOGO",
+      "watertight": true,
+      "winding": true,
+      "dims": [
+        0.8,
+        79.6,
+        22.28
+      ],
+      "fits_a1mini": true,
+      "components": 20
+    },
+    {
+      "name": "YELLOW_09_LEVITRIX_FRONT_LETTERING",
+      "watertight": true,
+      "winding": true,
+      "dims": [
+        36.13,
+        0.75,
+        5.32
+      ],
+      "fits_a1mini": true,
+      "components": 8
+    }
+  ],
+  "cad_overlap_tests": 17,
+  "intersections": []
+}
